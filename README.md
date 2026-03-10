@@ -1,7 +1,7 @@
 # Codepath-Project2-submission
 # Web Development Project 2 - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: Robert Tenney
 
 This web app: **insert description**
 
